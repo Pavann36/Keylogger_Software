@@ -41,7 +41,7 @@ pip install pynput pyperclip Pillow psutil pygetwindow
 3. Run the script:
 
    ```bash
-   python keylogger_activity_tracker.py
+   python keylogger.py
    ```
 
 ## Logging Details
