@@ -56,10 +56,6 @@ pip install pynput pyperclip Pillow psutil pygetwindow
 - Use this software only on systems where you have permission.
 - Unauthorized monitoring of individuals' activities is illegal in many jurisdictions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 The developers of this software are not responsible for any misuse of this program. This tool is provided for educational purposes only.
